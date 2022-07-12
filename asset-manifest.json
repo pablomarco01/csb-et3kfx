@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pablomarco01.github.io/csb-et3kfx/static/css/main.a36d28cc.chunk.css",
+    "main.js": "https://pablomarco01.github.io/csb-et3kfx/static/js/main.1eca6b56.chunk.js",
+    "main.js.map": "https://pablomarco01.github.io/csb-et3kfx/static/js/main.1eca6b56.chunk.js.map",
+    "runtime-main.js": "https://pablomarco01.github.io/csb-et3kfx/static/js/runtime-main.d7bc49c6.js",
+    "runtime-main.js.map": "https://pablomarco01.github.io/csb-et3kfx/static/js/runtime-main.d7bc49c6.js.map",
+    "static/js/2.f928e1b9.chunk.js": "https://pablomarco01.github.io/csb-et3kfx/static/js/2.f928e1b9.chunk.js",
+    "static/js/2.f928e1b9.chunk.js.map": "https://pablomarco01.github.io/csb-et3kfx/static/js/2.f928e1b9.chunk.js.map",
+    "index.html": "https://pablomarco01.github.io/csb-et3kfx/index.html",
+    "static/css/main.a36d28cc.chunk.css.map": "https://pablomarco01.github.io/csb-et3kfx/static/css/main.a36d28cc.chunk.css.map",
+    "static/js/2.f928e1b9.chunk.js.LICENSE.txt": "https://pablomarco01.github.io/csb-et3kfx/static/js/2.f928e1b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7bc49c6.js",
+    "static/js/2.f928e1b9.chunk.js",
+    "static/css/main.a36d28cc.chunk.css",
+    "static/js/main.1eca6b56.chunk.js"
+  ]
+}
